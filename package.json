@@ -2,7 +2,7 @@
     "bugs": {
         "url": "https://github.com/mickey-mikey/homebridge-laser-egg/issues"
     },
-    "bundleDependencies": false,
+    "bundleDependencies": [],
     "dependencies": {
         "lower-case": "^1.1.4",
         "request": "^2.81.0",
