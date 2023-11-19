@@ -27,7 +27,7 @@
     ],
     "license": "ISC",
     "main": "index.js",
-    "name": "homebridge-laser-egg",
+    "name": "@mickey-mikey/homebridge-laser-egg",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/mickey-mikey/homebridge-laser-egg.git"
