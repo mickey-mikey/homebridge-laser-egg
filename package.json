@@ -3,6 +3,11 @@
         "url": "https://github.com/mickey-mikey/homebridge-laser-egg/issues"
     },
     "bundleDependencies": [],
+    "contributors": [
+        "@moh1t",
+        "@bfishadow",
+        "@ohdarling88"
+    ],
     "dependencies": {
         "lower-case": "^1.1.4",
         "request": "^2.81.0",
